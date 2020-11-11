@@ -1,0 +1,31 @@
+*{
+	box-sizing: border-box;
+}
+
+
+
+h1{ 
+    text-align: center;
+	align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(71, 126, 158);
+    color: white;
+}
+
+input{
+    padding: 10px;
+    padding-right: 400px;
+    border-radius: 5px;
+}
+
+button{
+    color: white;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+	background: red;
+}
